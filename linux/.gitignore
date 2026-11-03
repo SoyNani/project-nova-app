@@ -1,0 +1,6 @@
+flutter/ephemeral
+
+# Auto-generado por Flutter en cada `pub get`/build; no se versiona.
+flutter/generated_plugin_registrant.cc
+flutter/generated_plugin_registrant.h
+flutter/generated_plugins.cmake
