@@ -7,6 +7,23 @@
 
 App móvil en **Flutter + Firebase** para gestionar eventos y conferencias: calendario, mapa de sedes, speakers y organizaciones, sincronizado en tiempo real con Firestore.
 
+## Demo
+Recorrido: login con Google → inicio → calendario → mapa → crear y cancelar un evento.
+
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/demo/login.png" width="200" alt="Login"/><br/><sub>Login</sub></td>
+    <td align="center"><img src="docs/demo/home.png" width="200" alt="Inicio"/><br/><sub>Inicio</sub></td>
+    <td align="center"><img src="docs/demo/calendario.png" width="200" alt="Calendario"/><br/><sub>Calendario</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/demo/mapa.png" width="200" alt="Mapa de eventos"/><br/><sub>Mapa de eventos</sub></td>
+    <td align="center"><img src="docs/demo/evento.png" width="200" alt="Detalle del evento"/><br/><sub>Detalle del evento</sub></td>
+    <td align="center"><img src="docs/demo/crear-evento.png" width="200" alt="Crear evento"/><br/><sub>Crear evento</sub></td>
+  </tr>
+</table>
+
 ## Requisitos
 
 | Herramienta | Versión |
